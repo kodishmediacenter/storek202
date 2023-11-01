@@ -118,7 +118,7 @@ description="Addon Aprovado pela Kodish Team"
 skin_id="sxxx"
 
 name="Vitoria Filmes"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.cineclassico.zip"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.vitoriafilmesdub.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icon2/icon-vitoriafilmesdub.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Addon Aprovado pela Kodish Team"
@@ -145,12 +145,6 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Addon Aprovado pela Kodish Team"
 skin_id="sxxx"
 
-name="Novelas Sbt"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.novelassbt.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/09022022/icon-novelassbt.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon Aprovado pela Kodish Team"
-skin_id="sxxx"
 
 name="1thek"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.1thek.zip"
@@ -216,13 +210,6 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Addon Aprovado pela Kodish Team"
 skin_id="sxxx"
 
-name="Fatos Nerd"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.fatosnerd.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/16092021/icon-fatosnerd.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon Aprovado pela Kodish Team"
-skin_id="sxxx"
-
 name="Kmusic"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.kmusic.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/16092021/icon-kmusic.png"
@@ -244,12 +231,6 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Addon Aprovado pela Kodish Team"
 skin_id="sxxx"
 
-name="Hunter FM"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.hunterfm.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/11082021/icon-hunterfm.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon Aprovado pela Kodish Team"
-skin_id="sxxx"
 
 name="Tecmundo"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.tecmundo.zip"
@@ -258,14 +239,12 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Addon Aprovado pela Kodish Team"
 skin_id="sxxx"
 
-
 name="Canal Area51"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.area51canal.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/22072021/icon-area51canal.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Addon Aprovado pela Kodish Team"
 skin_id="sxxx"
-
 
 name="Zoomundo"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.zoomundo.zip"
@@ -280,8 +259,6 @@ iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/ic
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="São Todos Addons aprovados para uso Bom Streaming a todos"
 skin_id="wwwww"
-
-
 
 name="BlueJazz"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.blueandjazz.zip"
@@ -354,14 +331,6 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Dual Kodi compativel com kodi 16/17/18/19 com fix"
 skin_id="wwwww"
 
-
-name="Radio Tops [New]"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.radiostops.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/icon-radiostop.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon Aprovado pela Kodish Team"
-skin_id="wwwww"
-skin_id="wwwww"
 
 name="Trato Feito"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.tratofeito.zip"
@@ -603,15 +572,6 @@ skin_id="wwwww"
 name="Cancao Nova [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.cacaonova.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/31012019/icon-cancaonova.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon Aprovado pela Kodish Team"
-skin_id="wwwww"
-
-
-
-name="Coleção CDs Gregoriano [New Kodish]"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.gregorianocds.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/15012019/icon-gregorianocds.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Addon Aprovado pela Kodish Team"
 skin_id="wwwww"
