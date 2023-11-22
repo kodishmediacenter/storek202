@@ -5,9 +5,16 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Addon Aprovado pela Kodish Team"
 skin_id="sxxx"
 
+name="Elementum (Android 10)"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/plugin.video.elementum.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icon2/icon-kissfm.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon Elementum para Android Corrigindo Erro 13"
+skin_id="sxxx"
+
 name="Instalando o Teclado ABNT"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/service.pixel.brkeyboard.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icon2/icon-kissfm.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Patch que instala Teclado Brasileiro"
-skin_id="sxxx"
+skin_id="Teclado pt-br para Kodi 19"
