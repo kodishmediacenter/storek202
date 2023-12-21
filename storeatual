@@ -1,3 +1,10 @@
+name="Opera Sounds [New]"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.operasongs.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-operasongs.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Pode ser necessario configurar as api do youtube"
+skin_id="wwwww"
+
 name="Dwight Farrokh Lista [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.Dwight_Farrokh_Lista.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-DF.png"
