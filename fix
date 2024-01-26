@@ -5,6 +5,14 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Player para Corrigir os engasgos do Kodi"
 skin_id="sxxx"
 
+name="Player Patch (2)"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.executable.player.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/fix.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Patch para Windows para para MPV"
+skin_id="sxxx"
+
+
 name="Fix Correcao"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/fix/xbmc.python2.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/fix.png"
