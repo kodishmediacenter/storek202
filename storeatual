@@ -41,13 +41,6 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Addon Aprovado pela Kodish Team"
 skin_id="wwwww"
 
-name="Gif.Peg.Tv [New]"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.Gif.Peg.Tv.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-GPTV.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon Aprovado pela Kodish Team"
-skin_id="wwwww"
-
 name="Nyaa Laucher [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.nyaalaucher.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-nyaalaucher.png"
