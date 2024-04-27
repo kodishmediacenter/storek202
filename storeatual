@@ -1,3 +1,17 @@
+name="Hidra Tuxedo [Jacktook]"
+url="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/hidra-jack/plugin.video.hidratuxedo.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/18012019/icon-hdtuxedo.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon Aprovado pela Kodish Team"
+skin_id="wwwww"
+
+name="Hidra Tuxedo [Elementum]"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.hidratuxedo.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/18012019/icon-hdtuxedo.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon Aprovado pela Kodish Team"
+skin_id="wwwww"
+
 name="Pagode das Ofensas [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.pagodeda.zip"
 iconimage="https://yt3.googleusercontent.com/EgCvkPIm7wzt8Zi7Iy293Qb1JkQrvMzuTjvwxQdhB9EOauz-k3pJ5uaNFbhOWtVeaePe2DDKZCM=s256-c-k-c0x00ffffff-no-rj"
@@ -40,12 +54,7 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Addon Aprovado pela Kodish Team"
 skin_id="wwwww"
 
-name="Hidra Tuxedo [New]"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.hidratuxedo.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/18012019/icon-hdtuxedo.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon Aprovado pela Kodish Team"
-skin_id="wwwww"
+
 
 name="Cine Dragao [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.CineDragon_Matrix.zip"
