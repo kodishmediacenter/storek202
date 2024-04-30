@@ -1,3 +1,10 @@
+name="Kodish Store[6.1]"
+url="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/Kodish-Updates/Kodish.repo.store.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/fix.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Atualização da Kodish Store"
+skin_id="sxxx"
+
 name="Player MPV"
 url="https://archive.org/download/player_202401/player.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/fix.png"
