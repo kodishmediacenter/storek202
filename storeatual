@@ -1,4 +1,11 @@
-name="Contador de Moedas [Jacktook]"
+name="TMDB"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/tmdb.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-tmdb.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon para assistir Filmes e Series via Elementum"
+skin_id="wwwww"
+
+name="Contador de Moedas"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.coinconter.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icon2/icon-coinconter.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
