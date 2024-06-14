@@ -68,18 +68,6 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Addon Aprovado pela Kodish Team"
 skin_id="wwwww"
 
-
-
-name="Cine Dragao [New]"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.CineDragon_Matrix.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icon2/icon-cinedragao.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon Aprovado pela Kodish Team e Compativel a partir kodi Matrix ou superior"
-skin_id="wwwww"
-
-
-
-
 name="Opera Sounds [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.operasongs.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-operasongs.png"
