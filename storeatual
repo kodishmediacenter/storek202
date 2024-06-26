@@ -1,3 +1,17 @@
+name="Sween Filmes"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.swenfilmes.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-swenfilmes.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon para assistir Filmes e Series via Elementum"
+skin_id="wwwww"
+
+name="Miura Jam"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.miurajam.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icon2/icon-miurajam.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon para assistir Filmes e Series via Elementum"
+skin_id="wwwww"
+
 name="TMDB (Mod)"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/tmdb.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-tmdb.png"
