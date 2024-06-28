@@ -1,3 +1,10 @@
+name="Roda Viva"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.rodaviva.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-rodaviva.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon para assistir Filmes e Series via Elementum"
+skin_id="wwwww"
+
 name="Sween Filmes"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.swenfilmes.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-swenfilmes.png"
