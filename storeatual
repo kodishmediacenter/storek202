@@ -1,3 +1,9 @@
+name="Teaddon"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.Addon.Teaddon.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/Icon-Teaddon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon aprovado pela kodish"
+skin_id="wwwww"
 
 name="TV Loucos Mundi"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.TvLoucos-Mundi.zip"
