@@ -12,6 +12,13 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Addon aprovado pela kodish"
 skin_id="wwwww"
 
+name="Top Pop Colection"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.toppopcolection.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-toppopcolection.jpg"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon aprovado pela kodish"
+skin_id="wwwww"
+
 name="Pop Music"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.popmusic.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-popmusic.jpg"
