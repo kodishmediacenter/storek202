@@ -1,3 +1,17 @@
+name="King TV [Oneplay]"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/kingtv.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-kingtv.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon aprovado pela kodish "
+skin_id="wwwww"
+
+name="Canal Ronaldo TV"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.ronaldotv.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-ronaldotv.jpg"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon aprovado pela kodish"
+skin_id="wwwww"
+
 name="Origens NT"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.origensnt.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-origensnt.jpg"
