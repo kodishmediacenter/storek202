@@ -1,3 +1,10 @@
+name="Gregorian"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.gregorian.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-gregorian.jpg"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon Aprovado pela Kodish Team"
+skin_id="plugin.video.gregorian.zip"
+
 name="Youtube Fix"
 url="http://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.youtube.zip"
 iconimage="https://img.freepik.com/vetores-premium/logo-vermelho-do-youtube-logo-de-midia-social_197792-1803.jpg"
