@@ -1,3 +1,10 @@
+name="Youtube Fix"
+url="http://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.youtube.zip"
+iconimage="https://img.freepik.com/vetores-premium/logo-vermelho-do-youtube-logo-de-midia-social_197792-1803.jpg"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon que corrige o erro sign in to confirm you're not a bot youtube no kodi mas necessario gerar as api"
+skin_id="plugin.video.youtube.zip"
+
 name="Hidra Tuxedo [Elementum]"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.hidratuxedo.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/18012019/icon-hdtuxedo.png"
