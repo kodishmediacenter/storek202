@@ -1,4 +1,11 @@
 name="Ares"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/refs/heads/master/addons/Kodish.utils.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/refs/heads/main/icons/icon-kodishutils.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon Aprovado pela Kodish Team"
+skin_id="plugin.video.gregorian.zip"
+
+name="Ares"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/refs/heads/master/addons/plugin.video.ares.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/refs/heads/main/icons/icon-ares.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
