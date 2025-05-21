@@ -1,3 +1,10 @@
+name="Best Voice"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/refs/heads/master/addons/plugin.video.bestthevoice.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/refs/heads/main/icons/icon-bestthevoice.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon Aprovado pela Kodish Team"
+skin_id="plugin.video.bestthevoice.zip"
+
 name="Lindsey Stirling"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.ls.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/icon-ls.png"
