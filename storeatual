@@ -771,26 +771,15 @@ skin_id="wwwww"
 
 
 
-name="Canal Kond Zilla [new Kodish Team]"
+name="Canal KondZilla [new Kodish Team]"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.KondZilla.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/20072017/icon-kondzilla.png"
 fanart="https://raw.githubusercontent.com/kodishmediacenter/store/master/french-dj/icon.png"
 description="Addon Aprovado pela Kodish Team"
 skin_id="wwwww"
 
-name="Goose House[New]"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.goosehouse.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/03022017/icon-goosehouse.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon Aprovado pela Kodish Team"
-skin_id="wwwww"
 
-name="The Master Invencoes"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.TheMasterInvencoes.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/20012017/icon-TheMasterInvencoes.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon Aprovado pela Kodish Team"
-skin_id="wwwww"
+
 
 name="Addon Cimorelli"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.cimorelli.zip"
