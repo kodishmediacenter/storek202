@@ -12,6 +12,13 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Addon Aprovado pela Kodish Team"
 skin_id="wwwww"
 
+name="DG Music"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/refs/heads/master/addons/plugin.video.dg2music.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/19032019/icon-dgmusic.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon Aprovado pela Kodish Team"
+skin_id="plugin.video.dg2music.zip"
+
 
 name="Gif Peg TV"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.gifpeg.tv.zip"
