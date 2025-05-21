@@ -2,8 +2,16 @@ name="BXL [Carivaldo]"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/refs/heads/master/addons/plugin.video.Addon.BXL.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/icon-bxl.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon Aprovado pela Kodish Team"
+description="Addon Aprovado pela Kodish Team - Link Corrigido"
 skin_id="Link Corrigido"
+
+name="NoCopyrightSounds"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/refs/heads/master/addons/plugin.video.ncs.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/icon-ncs.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon Aprovado pela Kodish Team"
+skin_id="wwwww"
+
 
 name="Gif Peg TV"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.gifpeg.tv.zip"
@@ -46,22 +54,6 @@ iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/ic
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Addon Aprovado pela Kodish Team"
 skin_id="plugin.video.gregorian.zip"
-
-name="Youtube Fix"
-url="http://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.youtube.zip"
-iconimage="https://img.freepik.com/vetores-premium/logo-vermelho-do-youtube-logo-de-midia-social_197792-1803.jpg"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon que corrige o erro sign in to confirm you're not a bot youtube no kodi mas necessario gerar as api"
-skin_id="plugin.video.youtube.zip"
-
-
-
-name="Cineroom"
-url="http://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.cineroom.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-cineroom.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon aprovado pela kodish"
-skin_id="plugin.video.cineroom"
 
 name="M3U Latino"
 url="http://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.m3ucl2.zip"
@@ -262,13 +254,6 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Pode ser necessario configurar as api do youtube"
 skin_id="plugin.video.operasongs"
 
-name="Dwight Farrokh Lista [New]"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.Dwight_Farrokh_Lista.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-DF.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon Aprovado pela Kodish Team"
-skin_id="plugin.video.Dwight_Farrokh_Lista"
-
 name="Nyaa Laucher [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.nyaalaucher.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-nyaalaucher.png"
@@ -304,12 +289,6 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Addon Aprovado pela Kodish Team"
 skin_id="plugin.video.now_music"
 
-name="VTV"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.vtvonline.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icon2/icon-vtv.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon Aprovado pela Kodish Team"
-skin_id="plugin.video.vtvonline"
 
 name="Canal Nostalgia"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.canalnostalgia.zip"
@@ -317,7 +296,6 @@ iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/ic
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Addon Aprovado pela Kodish Team"
 skin_id="plugin.video.canalnostalgia"
-
 
 
 
@@ -771,12 +749,6 @@ skin_id="wwwww"
 
 
 
-name="NoCopyrightSounds [Update]"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.ncs.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/icon-ncs.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon Aprovado pela Kodish Team"
-skin_id="wwwww"
 
 
 name="Canal Kond Zilla [new Kodish Team]"
