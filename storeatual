@@ -1,3 +1,10 @@
+name="Ponto Karaoke"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.pontokaraoke.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/12112018/icon-pontokaraoke.png"
+fanart="https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg"
+description="Addon Aprovado pela Kodish Team"
+skin_id="plugin.video.pontokaraoke.zip"
+
 name="Autoesporte"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/refs/heads/master/addons/plugin.video.autoesporte.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/12112018/icon-autoesporte.png"
