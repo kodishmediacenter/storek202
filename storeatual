@@ -714,14 +714,6 @@ description="Addon Aprovado pela Kodish Team"
 skin_id="wwwww"
 
 
-name="KissFM [KodishTeam]"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.kissfm.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/22092018/icon-kiss.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon Aprovado pela Kodish Team"
-skin_id="wwwww"
-
-
 name="Classic Rock Colection [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.classicrockcolection.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/store/master/30102018/icon-classicrockcolection.png"
@@ -858,26 +850,6 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Addon Aprovado pela Kodish Team"
 skin_id="wwwww"
 
-name="SobreTube"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.sobretube.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/repo/plugin.video.sobretube/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon Aprovado pela Kodish Team"
-skin_id="wwwww"
-
-name="Canal Otario (Video)"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.OtarioAnonymous.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/repo/plugin.video.OtarioAnonymous/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon Aprovado pela Kodish Team"
-skin_id="wwwww"
-
-name="Neko Tenshi (Video)"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.NekoTenshi.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/repo/plugin.video.NekoTenshi/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon Aprovado pela Kodish Team"
-skin_id="wwwww"
 
 name="Action Geek (Video)"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.ActionGeek.zip"
