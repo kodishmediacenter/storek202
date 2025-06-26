@@ -1,3 +1,10 @@
+name="VFS Linux"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/refs/heads/master/addons/vfs/linux.zip"
+iconimage="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon Aprovado pela Kodish Team"
+skin_id="linux.zip"
+
 name="Best Voice"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/refs/heads/master/addons/plugin.video.bestthevoice.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/refs/heads/main/icons/icon-bestthevoice.png"
