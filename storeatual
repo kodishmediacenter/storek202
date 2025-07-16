@@ -1,3 +1,10 @@
+name="4Shared MP3"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/refs/heads/master/addons/plugin.audio.4sharedMP3.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/repo-kodish2025/refs/heads/main/nexus/plugin.audio.4sharedMP3/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon 4shared MP3 Permite ouvir suas musicas favoritas Oneplay Mod by kodish"
+skin_id="plugin.audio.4sharedMP3.zip"
+
 name="VFS Linux"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/refs/heads/master/addons/vfs/linux.zip"
 iconimage="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png"
