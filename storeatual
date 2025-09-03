@@ -1,3 +1,10 @@
+name="Studio Kaza FM"
+url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/refs/heads/master/addons/plugin.audio.estudioKazaFM.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/refs/heads/main/icons/icon-kaza.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon da Radio Kaza FM"
+skin_id="plugin.audio.estudioKazaFM.zip"
+
 name="4Shared MP3"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/refs/heads/master/addons/plugin.audio.4sharedMP3.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/repo-kodish2025/refs/heads/main/nexus/plugin.audio.4sharedMP3/icon.png"
