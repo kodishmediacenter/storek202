@@ -1,16 +1,3 @@
-name="Kodiflix Kodish Update"
-url="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/kodiflix19.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/fix.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Update Kodish Store e Hidra Tuxedo e Super Servidor Brasileiro"
-skin_id="sxxx"
-
-name="Kodish Store[6.1]"
-url="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/Kodish-Updates/Kodish.repo.store.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/fix.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Atualização da Kodish Store"
-skin_id="sxxx"
 
 name="Player MPV"
 url="https://archive.org/download/player_202401/player.zip"
@@ -19,48 +6,17 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Player para Corrigir os engasgos do Kodi"
 skin_id="sxxx"
 
-name="Player Patch (2)"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.executable.player.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/fix.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Patch para Windows para para MPV"
-skin_id="sxxx"
-
-
 name="Fix Legacy"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/fix/xbmc.python2.zip"
+url="https://kodishmediacenter.github.io/kodi19/fix/xbmc.python2.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/fix.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Patch Obrigatorio para addons youtube da Kodish mais antigo e atuais"
 skin_id="sxxx"
 
-name="Rajada Imagem"
-url="https://archive.org/download/addons_202403/addons.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/fix.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon Aprovado pela Kodish Team"
-skin_id="sxxx"
-
-
-
 name="Elementum (Android 10)"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/plugin.video.elementum.zip"
+url="https://kodishmediacenter.github.io/kodi19/plugin.video.elementum.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/fix.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Addon Elementum para Android Corrigindo Erro 13"
 skin_id="sxxx"
 
-name="Kodiflix Correcao"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/update-26112023.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/fix.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Atualização dos Addons Kodiflix (NEXUS 20.2.5) "
-skin_id="sxxx"
-
-
-name="Instalando o Teclado ABNT"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/service.pixel.brkeyboard.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/fix.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Patch que instala Teclado Brasileiro"
-skin_id="Teclado pt-br para Kodi 19"
