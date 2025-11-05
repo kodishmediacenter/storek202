@@ -1,3 +1,10 @@
+name="Correção para Busca Elementum"
+url="https://kodishmediacenter.github.io/kodi19/addons/buscaelementum.zip"
+iconimage="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png""
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Correcao dos Addons do Rajada e Burst"
+skin_id="plugin.video.Addon.BXL.zip"
+
 name="BXL"
 url="https://kodishmediacenter.github.io/kodi19/addons/plugin.video.Addon.BXL.zip"
 iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-bxl.png"
