@@ -1,6 +1,6 @@
 name="Ares"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/refs/heads/master/addons/plugin.video.ares.zip"
-iconimage="https://github.com/aresrepo/aresrepo.github.io/blob/main/nexus/plugin.video.ares/Icon.png"
+iconimage="https://raw.githubusercontent.com/aresrepo/aresrepo.github.io/refs/heads/main/nexus/plugin.video.ares/Icon.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Addon Ares aprovado peka Kodish "
 skin_id="plugin.audio.estudioKazaFM.zip"
@@ -19,12 +19,6 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Addon da Bxl"
 skin_id="plugin.video.Addon.BXL.zip"
 
-name="BXL (Githack)"
-url="https://rawcdn.githack.com/kodishmediacenter/kodi19/refs/heads/master/addons/plugin.video.Addon.BXL.zip"
-iconimage="https://raw.githubusercontent.com/kodishmediacenter/storek202/main/icons/icon-bxl.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon da Bxl"
-skin_id="plugin.video.Addon.BXL.zip"
 
 name="Studio Kaza FM"
 url="https://kodishmediacenter.github.io/kodi19/addons/plugin.audio.estudioKazaFM.zip"
