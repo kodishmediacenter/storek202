@@ -1,3 +1,10 @@
+name="Spotniks"
+url="https://raw.githubusercontent.com/kodishmediacenter/repo-2026/refs/heads/main/nexus/plugin.video.spotniks/plugin.video.spotniks-1.0.zip"
+iconimage="https://raw.githubusercontent.com/kodishmediacenter/repo-2026/refs/heads/main/nexus/plugin.video.spotniks/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Addon Aprovado pela Kodish Team"
+skin_id="sxxx"
+
 name="Ares Fast"
 url="https://raw.githubusercontent.com/kodishmediacenter/repo-2026/refs/heads/main/nexus/plugin.video.aresfast/plugin.video.aresfast-3.1.8.zip"
 iconimage="https://raw.githubusercontent.com/aresrepo/aresrepo.github.io/refs/heads/main/nexus/plugin.video.ares/Icon.png"
